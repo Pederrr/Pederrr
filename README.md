@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+  <img src="coollogo_com-26445740.gif"/>
+</div>
 
 <!--
 **Pederrr/Pederrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
